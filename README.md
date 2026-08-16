@@ -3,7 +3,7 @@
 A complete practical guide for using MinilibX (MLX) in Python projects at 42 School.
 
 🌐 **Project Website:**  
-[https://sarafreitas-dev.github.io/MLX-Helpfull-Documentation/](https://sarafreitas-dev.github.io/MLX-42lib-Helpfull-Documentation/)
+[https://sarafreitas-dev.github.io/MinilibX-42-Pyhton-Documentation/](https://sarafreitas-dev.github.io/MinilibX-42-Pyhton-Documentation/)
 
 ---
 
