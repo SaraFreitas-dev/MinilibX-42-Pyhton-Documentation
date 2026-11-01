@@ -1,13 +1,25 @@
 <p align="center"><img src="assets/banner.png" alt="MiniLibX Python documentation banner" width="100%"/></p>
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3"/>
+  <img src="https://img.shields.io/badge/MiniLibX-mlx__CLXV_v2.2-58a6ff?style=for-the-badge" alt="mlx_CLXV v2.2"/>
+  <img src="https://img.shields.io/badge/42-Porto-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Porto"/>
+</p>
+
 <br>
 
-# MinilibX (MLX) Helpful Documentation (Python Edition)
+
+<h1>MinilibX (MLX) Helpful Documentation (Python Edition)</h1>
 
 A complete practical guide for using MinilibX (MLX) in Python projects at 42 School.
 
-🌐 **Project Website:**  
-[https://sarafreitas-dev.github.io/MinilibX-42-Pyhton-Documentation/](https://sarafreitas-dev.github.io/MinilibX-42-Pyhton-Documentation/)
+
+  <a href="https://sarafreitas-dev.github.io/MinilibX-42-Pyhton-Documentation/">
+    <img src="https://img.shields.io/badge/📖_Open_the_Documentation_Website-58a6ff?style=for-the-badge" alt="Open the documentation website"/>
+  </a>
+
+<br>
 
 ---
 
@@ -51,7 +63,7 @@ https://github.com/SaraFreitas-dev/A-Maze-ing
 
 Created during the development of the [**A-Maze-ing**](https://github.com/SaraFreitas-dev/A-Maze-ing) project at **42 Porto**.
 
-<a href="https://github.com/SaraFreitas-dev/A-Maze-ing"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/A-Maze-ing/main/assets/imgs/menu_background.png" width="500" alt="A-Maze-ing main menu"/></a>
+<a href="https://github.com/SaraFreitas-dev/A-Maze-ing"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/A-Maze-ing/main/assets/imgs/menu_background.png" width="700" alt="A-Maze-ing main menu"/></a>
 
 ---
 
