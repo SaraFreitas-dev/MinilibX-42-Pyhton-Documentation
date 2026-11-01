@@ -1,4 +1,8 @@
-# 🖼️ MinilibX (MLX) Helpful Documentation (Python Edition)
+<p align="center"><img src="assets/banner.png" alt="MiniLibX Python documentation banner" width="100%"/></p>
+
+<br>
+
+# MinilibX (MLX) Helpful Documentation (Python Edition)
 
 A complete practical guide for using MinilibX (MLX) in Python projects at 42 School.
 
@@ -19,27 +23,23 @@ The goal is to make future MLX Python projects easier to build and understand.
 
 --- 
 
-## 🛠️ What You Can Find Here
+## 🗂️ Documentation
 
-- MLX window creation
-- Event hooks
-- Keyboard handling
-- Image rendering
-- Asset management
-- XPM texture usage
-- Basic game loop logic
-- Menu systems
-- Animation experiments
-- Helpful project structure ideas
-- Common errors and fixes
-- Tips for using MLX with Python at 42
+New to MLX? Read them in this order:
+
+| # | Guide | What's inside | PDF |
+| --- | --- | --- | --- |
+| 1 | [Setup & Troubleshooting](guides/setup-and-troubleshooting.md) | Dependencies, building and installing MLX, WSL, common errors and fixes | [PDF](guides/pdf_version/setup-and-troubleshooting.pdf) |
+| 2 | [MLX Reference](guides/mlx-reference.md) | Every function: windows, images, hooks, colors, sync, recipes, quick reference card | [PDF](guides/pdf_version/mlx-reference.pdf) |
+| 3 | [Coordinate Systems](guides/coordinate-systems.md) | Grid vs. pixel coordinates, tile size, centering, mouse → tile | [PDF](guides/pdf_version//coordinate-systems.pdf) |
+| 4 | [Game States & Menus](guides/game-states-and-menus.md) | One window with many screens, menu navigation, themes, common problems | [PDF](guides/pdf_version/game-states-and-menus.pdf) |
 
 ---
 
 
 ## 📖 Additional Documentation
 
-For more complete project documentation and additional MLX usage examples, you can also check the `docs/` folder from the A-Maze-ing project repository:
+For more complete project documentation and additional MLX usage examples, you can also check the `guides/` folder from the A-Maze-ing project repository:
 https://github.com/SaraFreitas-dev/A-Maze-ing
 
 ---
@@ -49,7 +49,9 @@ https://github.com/SaraFreitas-dev/A-Maze-ing
 🦆 Sara Freitas  
 🎮 Bruno Ramalho
 
-Created during the development of the **A-Maze-ing** project at **42 Porto**.
+Created during the development of the [**A-Maze-ing**](https://github.com/SaraFreitas-dev/A-Maze-ing) project at **42 Porto**.
+
+<a href="https://github.com/SaraFreitas-dev/A-Maze-ing"><img src="https://raw.githubusercontent.com/SaraFreitas-dev/A-Maze-ing/main/assets/imgs/menu_background.png" width="500" alt="A-Maze-ing main menu"/></a>
 
 ---
 
@@ -64,8 +66,4 @@ It is a practical and beginner-friendly guide made from real project experience,
 - helping other 42 students
 - keeping useful examples for future projects
 
----
-
-## 🚀 Open the Online Documentation
-
-https://sarafreitas-dev.github.io/MLX-Helpfull-Documentation/
+Everything here refers to **mlx_CLXV v2.2** (Linux / XCB / Vulkan). Found a mistake or something missing? Issues and pull requests are welcome.

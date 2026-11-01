@@ -73,6 +73,8 @@ Your program must register hooks **before** calling `mlx_loop`. Once inside the 
 
 ## 3. Getting Started
 
+> Haven't installed MLX yet? Start with [Setup & Troubleshooting](setup-and-troubleshooting.md).
+
 Minimum working program:
 
 ```python
