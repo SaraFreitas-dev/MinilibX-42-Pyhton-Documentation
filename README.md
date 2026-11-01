@@ -17,7 +17,7 @@ This repository gathers notes, examples, experiments, and practical explanations
 
 The goal is to make future MLX Python projects easier to build and understand.
 
----
+--- 
 
 ## 🛠️ What You Can Find Here
 
